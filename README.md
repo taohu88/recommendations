@@ -2,6 +2,9 @@
 https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 # Blogs
 https://nycdatascience.com/blog/student-works/deep-learning-meets-recommendation-systems/
+
+ALS: https://medium.com/@victorkohler/als-implicit-collaborative-filtering-5ed653ba39fe
+
 # Papers
 
 # feature factorization 
@@ -11,4 +14,5 @@ https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 
 http://www.jefkine.com/recsys/2017/03/27/factorization-machines/
 
-http://yifanhu.net/PUB/cf.pdf
+ALS: http://yifanhu.net/PUB/cf.pdf
+
