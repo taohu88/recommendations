@@ -9,5 +9,6 @@ https://github.com/aksnzhy/xlearn/tree/master/python-package
 
 https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 
-
 http://www.jefkine.com/recsys/2017/03/27/factorization-machines/
+
+http://yifanhu.net/PUB/cf.pdf
