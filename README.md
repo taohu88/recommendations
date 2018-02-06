@@ -18,3 +18,10 @@ ALS: http://yifanhu.net/PUB/cf.pdf
 
 #netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
+
+# Other Factorization Implementations and Blog
+* http://danielnee.com/2016/09/collaborative-filtering-using-alternating-least-squares/
+
+* Explicit ALS: https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea
+
+* Implicit ALS: https://medium.com/@victorkohler/als-implicit-collaborative-filtering-5ed653ba39fe
