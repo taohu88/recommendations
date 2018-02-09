@@ -15,8 +15,9 @@ https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 http://www.jefkine.com/recsys/2017/03/27/factorization-machines/
 
 ALS: http://yifanhu.net/PUB/cf.pdf
+FFM: https://www.andrew.cmu.edu/user/yongzhua/conferences/ffm.pdf
 
-#netflix winning solution
+# netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
 
 # Other Factorization Implementations and Blog
