@@ -7,7 +7,7 @@ ALS: https://medium.com/@victorkohler/als-implicit-collaborative-filtering-5ed65
 
 # Papers
 
-# feature factorization 
+# Feature factorization 
 https://github.com/aksnzhy/xlearn/tree/master/python-package
 
 https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
