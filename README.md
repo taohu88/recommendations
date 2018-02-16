@@ -17,6 +17,9 @@ http://www.jefkine.com/recsys/2017/03/27/factorization-machines/
 ALS: http://yifanhu.net/PUB/cf.pdf
 FFM: https://www.andrew.cmu.edu/user/yongzhua/conferences/ffm.pdf
 
+* http://nowave.it/factorization-machines-with-tensorflow.html
+* High order factorization https://arxiv.org/abs/1607.07195
+
 # netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
 
