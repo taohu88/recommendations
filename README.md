@@ -22,7 +22,7 @@ FFM: https://www.andrew.cmu.edu/user/yongzhua/conferences/ffm.pdf
 
 * toutiao: http://mp.weixin.qq.com/s/DXPMZN9SwKTxI4roaQmeMw
 
-# netflix winning solution
+# Netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
 
 # Other Factorization Implementations and Blog
