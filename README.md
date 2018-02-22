@@ -14,6 +14,8 @@ https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 
 http://www.jefkine.com/recsys/2017/03/27/factorization-machines/
 
+https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf
+
 ALS: http://yifanhu.net/PUB/cf.pdf
 FFM: https://www.andrew.cmu.edu/user/yongzhua/conferences/ffm.pdf
 
