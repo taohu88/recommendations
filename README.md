@@ -24,6 +24,8 @@ FFM: https://www.andrew.cmu.edu/user/yongzhua/conferences/ffm.pdf
 
 * toutiao: http://mp.weixin.qq.com/s/DXPMZN9SwKTxI4roaQmeMw
 
+* bayesian thompson sampling: http://tech.adroll.com/blog/data-science/2017/03/06/thompson-sampling-bayesian-factorization-machines.html
+
 # Netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
 
