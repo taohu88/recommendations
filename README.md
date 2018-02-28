@@ -21,6 +21,7 @@ https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 * FTLR: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37013.pdf
 * https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 * FOBOS: https://stanford.edu/~jduchi/projects/DuchiSi09c.pdf
+* chinese on FTLR http://blog.csdn.net/china1000/article/details/51176654
 
 # Netflix winning solution
 https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
