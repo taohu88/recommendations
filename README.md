@@ -18,7 +18,7 @@ https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 * bayesian thompson sampling: http://tech.adroll.com/blog/data-science/2017/03/06/thompson-sampling-bayesian-factorization-machines.html
 
 # FTLR 
-* Follow the regularized leader: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37013.pdf
+* FTLR: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37013.pdf
 * https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 
 # Netflix winning solution
