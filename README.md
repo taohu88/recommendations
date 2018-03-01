@@ -32,3 +32,5 @@ https://netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
 * ffm
 
 
+# Examples
+* http://benanne.github.io/2014/08/05/spotify-cnns.html
