@@ -1,4 +1,4 @@
-# Concepts
+# [Concepts](https://www.youtube.com/watch?v=39vJRxIPSxw)
 * Item base
 * User base
 * Matrix Factorization
