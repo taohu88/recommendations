@@ -1,3 +1,9 @@
+# Concepts
+* Item base
+* User base
+* Matrix Factorization
+* Factorization Machine
+
 # Deep learning for recommendation system: 
 https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 # Blogs
