@@ -22,6 +22,7 @@ https://github.com/robi56/Deep-Learning-for-Recommendation-Systems
 * High order factorization https://arxiv.org/abs/1607.07195
 * toutiao: http://mp.weixin.qq.com/s/DXPMZN9SwKTxI4roaQmeMw
 * bayesian thompson sampling: http://tech.adroll.com/blog/data-science/2017/03/06/thompson-sampling-bayesian-factorization-machines.html
+* Bayesian FM: https://analyticsconsultores.com.mx/wp-content/uploads/2019/03/Bayesian-Factorization-Machines-C.-Freudenthaler-L.-Schmidt-S.-Rendle.pdf
 
 # FTLR 
 * FTLR: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37013.pdf
